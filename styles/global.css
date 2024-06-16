@@ -75,6 +75,11 @@ h3 {
     font-size: var(--fs-lg);
 }
 
+img {
+    width: 100%;
+    display: inline-block;
+}
+
 a {
     text-decoration: none;
     color: inherit;
