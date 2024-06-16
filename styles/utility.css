@@ -32,6 +32,18 @@
     gap: 1rem;
 }
 
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.gap-1 {
+    gap: 1rem;
+}
+
 /* DESKTOP */
 @media (width >= 80em) { 
     .container {
